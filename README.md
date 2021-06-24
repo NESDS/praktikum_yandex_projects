@@ -11,4 +11,4 @@
 |2021.03.11| [Приоритизация гипотез и оценка результатов А/В-теста](https://nbviewer.jupyter.org/github/NESDS/praktikum_yandex_projects/blob/main/2021_03_11_hypothesis_and_ab_test/2021_03_11_hypothesis_abtest.ipynb) | Интернет-магазин | Приоритизация гипотез по фреймворкам ICE и RICE; оценка результатов A/B-тестирования; построение графиков: кумулятивная выручка, средний чек, конверсия по группам; расчет статистической значимости различий конверсий и средних чеков по сырым и очищенным данным  | ```pandas, numpy, matplotlib, scipy  ```
 |2021.02.25| [Анализ бизнес-показателей Яндекс.Афиши](https://nbviewer.jupyter.org/github/NESDS/praktikum_yandex_projects/blob/main/2021_02_25_business_indicators/2021_02_25_business_indicators.ipynb) | Яндекс.Афиша | Расчет экономических показателей (метрики юнит-экономики); оценка окупаемости инвестиций в маркетинг; поиск "узкого места" в экономической модели; когортный анализ  | ```pandas, seaborn, matplotlib, plotly, numpy ```
 
-![diplom](https://github.com/NESDS/praktikum_yandex_projects/blob/main/diploma.pdf)
+![diplom](https://github.com/NESDS/praktikum_yandex_projects/blob/main/diploma_page-0001.jpg)
